@@ -1,1 +1,1 @@
-# PR-Bot is currently not working due to some outdated dependencies
+# PR-Bot is not working due to some outdated dependencies
